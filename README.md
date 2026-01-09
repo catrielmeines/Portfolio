@@ -4,7 +4,7 @@
 I'm a Junior Data Analyst passionate about data, analytics, and problem solving.  
 Currently learning and building projects with real-world datasets.
 
-## 🛠️ Skills
+🛠️ Skills
 - Excel / Google Sheets
 - SQL
 - Python (Pandas, NumPy, Matplotlib)
