@@ -25,7 +25,7 @@ Currently learning and building projects with real-world datasets.
 
 ## 🌎 Languages
 - Spanish: Native
-- English: Intermediate
+- English: C1
 
 ## 📫 Contact
 - LinkedIn:
