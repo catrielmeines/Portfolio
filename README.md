@@ -15,6 +15,7 @@ Currently learning and building projects with real-world datasets.
 - 📈 Sales Analysis Dashboard (Excel / Power BI)
 - 🧹 Data Cleaning Project (Python + Pandas)
 - 🛒 E-commerce Analysis (SQL)
+
 👉 Check my repositories to see my work.
 
 📚 Currently Learning
